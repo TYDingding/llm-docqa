@@ -8,6 +8,7 @@ This project is a chatbot that can answer questions about local PDF using **Lang
 - Embeds documents using OpenAI Embeddings
 - Retrieves relevant chunks using FAISS vector store
 - Generates answers using ChatGPT API (gpt-4.1-nano)
+- Use [tqdm](https://github.com/tqdm/tqdm) to visualize the process
 
 ## Setup
 
