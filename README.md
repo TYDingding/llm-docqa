@@ -76,9 +76,9 @@ You: What is this pdf about?
 DocQA: This PDF appears to be a scholarly article from the proceedings of the 2008 International Snow Science Workshop. It discusses avalanche survival strategies, particularly focusing on different parts of a flowing avalanche and how individuals can improve their chances of survival. The paper includes a practitioner's perspective, theoretical insights into avalanche dynamics, case studies of avalanche survivors, and an effort to integrate theory and practice in avalanche survival techniques.
 ```
 
-## References
+## Resources
 
-https://python.langchain.com/docs/tutorials/rag/
-https://ollama.com/library/gemma3
-https://ollama.com/library/nomic-embed-text
-https://python.langchain.com/api_reference/ollama/chat_models/langchain_ollama.chat_models.ChatOllama.html
+1. [Build RAG with LangChain](https://python.langchain.com/docs/tutorials/rag/)
+2. [Gemma3 Model](https://ollama.com/library/gemma3)
+3. [nomic-embed-text](https://ollama.com/library/nomic-embed-text), a local embedding model
+4. [Ollama - Customize a prompt](https://github.com/ollama/ollama?tab=readme-ov-file#customize-a-prompt)
